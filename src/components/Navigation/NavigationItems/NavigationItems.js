@@ -9,6 +9,7 @@ const NavigationItems = () => {
       <NavigationItem>Trang chủ</NavigationItem>
       <NavigationItem>Khách sạn</NavigationItem>
       <NavigationItem>Chuyến bay</NavigationItem>
+      <NavigationItem>Blog</NavigationItem>
     </ul>
   );
 };
